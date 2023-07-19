@@ -1,0 +1,41 @@
+_repo: Sorrisi-di-gioventu-b-Ricordi-e-note_71041
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrili, Anton Giulio
+    alias: Barrili, Antonio Giulio
+    birthdate: 1836
+    deathdate: 1908
+    gutenberg_agent_id: '4056'
+    url: http://www.gutenberg.org/2009/agents/4056
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
+    - https://it.wikipedia.org/wiki/Anton_Giulio_Barrili
+description: ''
+gutenberg_issued: '2023-06-25'
+identifiers:
+  gutenberg: '71041'
+language: it
+pgterms:marc904: http://www.braidense.it/dire/barrili_sorrisi.pdf
+pgterms:marc905: 20220925112238barrili
+pgterms:marc906: '1912'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by Biblioteca Nazionale
+  Braidense - Milano)
+publication_note: '  $aItaly :$bTreves, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographies'
+- !lcsh 'Authors, Italian -- 19th century -- Biography'
+- !lcsh 'Barrili, Antonio Giulio, 1836-1908'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Figure femminili -- Il maestro Segni -- La prima capannuccia -- La
+  mia presa di Peschiera -- Il primo errore -- Ceppo in famiglia -- Camene ligustiche
+  -- Don Alessandro -- Musicista e poeta -- L'amico Bastiano -- Il mio latino -- All'osteria
+  del Rettorica -- Hoa-tsien-ki -- Caso d'influenza.
+title: 'Sorrisi di gioventù : $b Ricordi e note'
+url: http://www.gutenberg.org/ebooks/71041
